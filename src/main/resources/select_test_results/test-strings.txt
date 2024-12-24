@@ -1,0 +1,8 @@
+Пример входного файла in1.txt
+Lorem ipsum dolor sit amet
+Пример
+consectetur adipiscing
+тестовое задание
+Пример входного файла in2.txt
+Нормальная форма числа с плавающей запятой
+Long
